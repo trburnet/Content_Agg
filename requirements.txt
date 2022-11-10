@@ -1,0 +1,8 @@
+feedparser
+bs4
+requests
+pandas
+fuzzywuzzy
+python-Levenshtein
+matplotlib
+plotly

@@ -7,3 +7,5 @@ python-Levenshtein
 matplotlib
 plotly
 statsmodels
+nltk
+scikit-learn
